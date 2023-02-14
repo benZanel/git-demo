@@ -4,6 +4,6 @@ public class Test1 {
         System.out.println("hahaha");
         System.out.println("hahaha");
         System.out.println("hahaha");
-
+        System.out.println("master commit 1");
     }
 }
