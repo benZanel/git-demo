@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("master commit 1");
         System.out.println("hot-fix commit");
         System.out.println("push github");
+        System.out.println("pull github");
     }
 }
